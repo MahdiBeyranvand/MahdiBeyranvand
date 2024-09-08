@@ -1,4 +1,4 @@
-<img src='./IMG_20240819_124338.jpg'/>
+<img src='./IMG_20240819_124338.jpg' width=250px />
 
 
 
